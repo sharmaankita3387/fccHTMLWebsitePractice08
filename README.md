@@ -1,7 +1,8 @@
 # Scratch Coding Practice 101  
 ## Project 8 of 10 — Mr. Whiskers' Blog (freeCodeCamp)  
 
-**Live Project:**: [https://sharmaankita3387.github.io/fccHTMLWebsitePractice08/](https://sharmaankita3387.github.io/fccHTMLWebsitePractice08/)
+
+#### **Live Project:** [https://sharmaankita3387.github.io/fccHTMLWebsitePractice08/](https://sharmaankita3387.github.io/fccHTMLWebsitePractice08/)
 ---
 
 ## About This Project  
